@@ -1,0 +1,190 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Eman Atwa</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">Welcome</a></li>
+							<li><a href="#one">Who Am I</a></li>
+							<li><a href="#two">Projects</a></li>
+							<li><a href="#three">Get in touch</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							
+							<h1>Eman Atwa</h1>
+							<p>A Junior  <a href="https://www.linkedin.com/in/eman-atwa32005/">Data Analyst</a><br />
+							</p>
+							
+							<ul class="actions">
+								
+							</ul>
+						</div>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a href="#" class="image">
+							<video width="400" height="300" controls
+							data-position="center center" >
+								<source src="images/pic01.jpg" type="video/mp4">
+								
+							  </video>
+							</a>
+							<div class="content">
+								<div class="inner">
+									<h2>WHO AM I </h2>
+									<p></p>
+									<ul class="actions">
+										
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/myimg.png" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Feugiat consequat</h2>
+									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+									<ul class="actions">
+										
+									</ul>
+								</div>
+							</div>
+						</section>
+						
+									
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>PROJECTS</h2>
+							<p>A collection of all the projects that I have done in the past couple of months.</p>
+							<div class="features">
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>Metrocar Project</h3>
+									<p>A funnel analysis project where I analyse the different funnel stages using SQL.</p>
+									<ul class="actions">
+										<li><a href="https://github.com/emanatwa/Metrocar_Project" class="button">View</a></li>
+									</ul>
+								</section>
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>Globox</h3>
+									<p>An A/B test project where I analyse the Globox App before adding a banner and after. </p>
+									<ul class="actions">
+										<li><a href="https://github.com/emanatwa/Globox_Project" class="button">View</a></li>
+									</ul>
+								</section>
+								<section>
+									<span class="icon solid major fa-chart-bar"></span>
+									<h3>Tableau</h3>
+									<p>My Tableau analysis.</p>
+									<ul class="actions">
+										<li><a href="https://public.tableau.com/app/profile/eman.atwa/vizzes" class="button">View</a></li>
+									</ul>
+								</section>
+								<section>
+									<span class="icon solid major fa-desktop"></span>
+									<h3>Veroeros quis lorem</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+									<ul class="actions">
+										<li><a href="generic.html" class="button">View</a></li>
+									</ul>
+								</section>
+								
+								
+							</div>
+						
+						</div>
+					</section>
+
+				<!-- Three -->
+					<section id="three" class="wrapper style1 fade-up">
+						<div class="inner">
+							<h2>GET IN TOUCH</h2>
+							
+							<div class="split style1">
+								
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Address</h3>
+											<span>Boston <br />
+											Lincolnshire<br />
+											UK</span>
+										</li>
+										<li>
+											<h3>Email</h3>
+											<span>emannour32005@gmail.com</span>
+											
+										</li>
+										<li>
+											<h3>Phone</h3>
+											<span>+44 07908 463990</span>
+										</li>
+										<li>
+											<h3>Social</h3>
+											<ul class="icons">
+												
+												
+												<li><a href="https://github.com/emanatwa" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+												
+												<li><a href="https://www.linkedin.com/in/eman-atwa32005/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
